@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: NPC
+  m_EditorClassIdentifier: 
+  m_GroupName: NPC
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6beca663c2ccd0048994926d0fcd752d
+  m_SerializeEntries:
+  - m_GUID: ccb717480f46c7e439a34681795bd03b
+    m_Address: Npc/icon/1001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: acad7c328b5d6f243ae57cec977e7cf5
+    m_Address: Npc/icon/1002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 705b28b5e42279b4aba34fe54d84781d
+    m_Address: Npc/icon/1003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: f455b564215836740a3aa72e4818dccd
+    m_Address: Npc/icon/2001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 79502a6ba4534364eb9ad6229f50cc59
+    m_Address: Npc/icon/2002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 09aa232597f7b63499bcb4ce7b25f9bd
+    m_Address: Npc/icon/2003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 9bd1bf2520c2da546b573e8085e2bede
+    m_Address: Npc/icon/2004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 127e184f2e472404ba0f4c810d014681
+    m_Address: Npc/icon/2005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 374f0dc364a3acb469636dfedcf81372
+    m_Address: Npc/icon/4001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 9a96d43a40d46b24b8312d4d58319f59
+    m_Address: Npc/icon/4002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 029beb6a82cc1be4aa3dbe492c256431
+    m_Address: Npc/icon/4003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 5e642df6af11ed74da19ae01e82dbdc5
+    m_Address: Npc/icon/5001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: db9fc4785487441489e5c0f66ab07ba7
+    m_Address: Npc/icon/6001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 31c89ab738ef3f04ba70dd8d02be71dc
+    m_Address: Npc/icon/6002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 3074cfa396996eb42bdc0c247f3aabea
+    m_Address: Npc/icon/6003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 9cb48b578b64a6d4488d1a45ae687c6b
+    m_Address: Npc/icon/6004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_1
+  - m_GUID: 7fa74a8f2fc015545ae70002d128ac66
+    m_Address: Npc/icon/8101
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_100
+  - m_GUID: 49cd648e907679740bb82ec308abebd0
+    m_Address: Npc/icon/8102
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_100
+  - m_GUID: 47bc3184464a60345a383b4656f05363
+    m_Address: Npc/icon/9001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: 977bbea3100941342a1065fb76b53442
+    m_Address: Npc/icon/9002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: ce4515e9dde2be641b768f182bdb101c
+    m_Address: Npc/icon/9003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: 721d3d71f65bf4040bc00d5bd99b66a8
+    m_Address: Npc/icon/9004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: 8e85d6848ff986142b035d5f1dbee54e
+    m_Address: Npc/icon/10101
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: 73719c01c8d6e834e9bd246b43b4de5d
+    m_Address: Npc/icon/10102
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: 873a066b905b14e4091e31401db2a821
+    m_Address: Npc/icon/12101
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: f62892a564f17c340acd80e3e08efe55
+    m_Address: Npc/icon/5000001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_200
+  - m_GUID: 365761129c7844f44bd76539823853d7
+    m_Address: Npc/icon/5000002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_200
+  - m_GUID: 8c7e01d36b1664e4c9e112ba5c048f00
+    m_Address: Npc/icon/5000003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_200
+  - m_GUID: 4629379294474e6479cbacc6c63917f8
+    m_Address: Npc/icon/5000004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_200
+  - m_GUID: 5c3af5fca01293c4fb47c8518b18c1c1
+    m_Address: Npc/icon/11001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: 607b0885bf99bdd4281296d0cb7f3e5f
+    m_Address: Npc/icon/11002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: ed986f1285c40ef4b913b6e526c982d6
+    m_Address: Npc/icon/8103
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_100
+  - m_GUID: 13da7838f3bdbaf448667970d4f857b2
+    m_Address: Npc/icon/11003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: e85400fefb567c241839208012c458d1
+    m_Address: Npc/icon/12501
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  - m_GUID: ebcb80050f8f9714bbe340399c3e8af6
+    m_Address: Npc/icon/12502
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - npc_sprite_2
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c09fca5b960fe6c4fac6baa1320ff309, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a7c17357d80d4d24e9f34b199c610438, type: 2}
+    - {fileID: 11400000, guid: e01ef3f07e9d91a4d94afd14bc77c255, type: 2}

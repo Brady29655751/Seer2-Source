@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Emblem
+  m_EditorClassIdentifier: 
+  m_GroupName: Emblem
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d8649133ede68314c88e398db2621cf1
+  m_SerializeEntries:
+  - m_GUID: 0740fd973fc39f447bbf40eb2cc1f612
+    m_Address: Emblems/1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: 5674e898adf3b41499aaf5a506c481d8
+    m_Address: Emblems/4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: f34031a2fe1f8154eb4985ee31708055
+    m_Address: Emblems/7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: 477f8ffae30a69f4eaad6329701159fd
+    m_Address: Emblems/10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: 3789c7bffd373cd40bea218626a5834a
+    m_Address: Emblems/146
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: e5a2f04e69783e04db64e72c52505635
+    m_Address: Emblems/151
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: 21c669e862c9e524dba3066c0b1b51df
+    m_Address: Emblems/-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_-1
+  - m_GUID: 317534e32bd987040b59a1a90623c3e5
+    m_Address: Emblems/-4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_-1
+  - m_GUID: 98ad143401e76754d914826f607c2ea6
+    m_Address: Emblems/-7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_-1
+  - m_GUID: 192755f1d13886742970707514d6040e
+    m_Address: Emblems/-10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_-1
+  - m_GUID: 8be4ed8ceac71864e9312c904d5983d1
+    m_Address: Emblems/13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: 78d97b012991fea4dbecf06e11b57922
+    m_Address: Emblems/61
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  - m_GUID: c31974c62a1195c45b792df4cf7cc004
+    m_Address: Emblems/200
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_2
+  - m_GUID: 503a08e59561ec84c8106e610853c10c
+    m_Address: Emblems/301
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_2
+  - m_GUID: fd8299af57ae596429b4317aea17eed2
+    m_Address: Emblems/20
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - emblem_1
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c09fca5b960fe6c4fac6baa1320ff309, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 65c47c8950f903742b972f05e3012b97, type: 2}
+    - {fileID: 11400000, guid: 75d386f1dfdfc7049b5df6778a293091, type: 2}
